@@ -1,3 +1,32 @@
+Skip to content
+Pooji2121
+DevOpsClassCodes
+Repository navigation
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+DevOpsClassCodes
+/pom.xml
+Go to file
+t
+Pooji2121
+Pooji2121
+Update pom.xml
+f75d07c
+ · 
+3 minutes ago
+526 lines (500 loc) · 20.8 KB
+DevOpsClassCodes
+/pom.xml
+
+Code
+
+Blame
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
@@ -524,3 +553,5 @@
     </profiles>
 
 </project>
+Copied!
+DevOpsClassCodes/pom.xml at master · Pooji2121/DevOpsClassCodes
